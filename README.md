@@ -6,8 +6,8 @@
 ## 🏆 Hackathon Submission
 - **Hackathon Name:** CodeClash2025
 - **Problem Statement:** Waste Management Automation for Dark Stores
-- **Team Name:** [Your Team Name]
-- **Project Duration:** [Hackathon Duration]
+- **Team Name:** Coding Knights
+- **Project Duration:** 24 Hours
 
 ## 🎯 Key Features
 ✅ **AI-Powered Waste Classification**: Automatically detects and classifies waste using image recognition.
@@ -31,10 +31,6 @@
 - TensorFlow.js for waste classification
 - Python (Flask) for predictive analytics
 - OpenCV for image processing
-
-### 🌍 IoT Integration:
-- Raspberry Pi / Arduino for sensor connectivity
-- MQTT for real-time data transfer
 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
@@ -61,7 +57,7 @@ graph TD;
   Backend-->|Database Requests|MongoDB;
   Backend-->|ML Processing|Python-Server;
   Backend-->|IoT Communication|MQTT-Broker;
-  MQTT-Broker-->IoT-Sensors;
+
 ```
 
 ## 🎥 Demo & Screenshots
