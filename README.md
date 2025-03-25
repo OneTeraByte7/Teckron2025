@@ -3,6 +3,10 @@
 ## 🚀 Project Overview
 **Waste Management Automation for Dark Stores** is an AI-powered web application designed to optimize waste tracking, reduce food wastage, and enhance sustainability in dark stores (micro-fulfillment centers). The system automates waste categorization, provides predictive analytics, and integrates with IoT sensors to monitor and reduce waste in real-time.
 
+## 🏆 TROPHIES
+[![trophy](https://github-profile-trophy.vercel.app/?username=OneTeraByte7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🏆 Hackathon Submission
 - **Hackathon Name:** CodeClash2025
 - **Problem Statement:** Waste Management Automation for Dark Stores
