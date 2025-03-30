@@ -72,7 +72,8 @@ graph TD;
 
 - Waste Classification UI
 ![Screenshot 2025-03-06 074901](https://github.com/user-attachments/assets/85c23e65-6878-40c4-8183-b1ad6ec750f3)
-![Screenshot 2025-03-06 074943](https://github.com/user-attachments/assets/70e2e2b0-0397-41a5-af45-350ca1be3064)
+![image](https://github.com/user-attachments/assets/d1147fac-baac-498a-9304-8eb962e6ce93)
+
 
 - Analytics Report
 ![image](https://github.com/user-attachments/assets/eddc6740-5bb4-4c19-a217-70b85b9a3a5e)
