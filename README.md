@@ -76,7 +76,7 @@ graph TD;
 
 - Analytics Report
 ![Screenshot 2025-03-06 075014](https://github.com/user-attachments/assets/cdeb3475-4041-4f80-bc0f-c485eb921614)
-![Screenshot 2025-03-06 075051](https://github.com/user-attachments/assets/23d38e66-cba7-4e65-a799-e7ed5e26a28c)
+![image](https://github.com/user-attachments/assets/452a3087-d711-48f4-a14a-86070227851d)
 ![Screenshot 2025-03-06 075159](https://github.com/user-attachments/assets/f641b3f0-e114-4b1d-99e5-384d8dc630a3)
 ![Screenshot 2025-03-06 075307](https://github.com/user-attachments/assets/a90ca17d-184e-4f83-b1b2-0bb96d836ebe)
 ![Screenshot 2025-03-06 075339](https://github.com/user-attachments/assets/7dafa898-1d4d-4ada-b5c7-883b86aa2e29)
