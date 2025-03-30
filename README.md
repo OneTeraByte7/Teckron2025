@@ -1,5 +1,7 @@
 # 🗑️ Waste Management Automation for Dark Stores
 
+![Hackron 2025](https://img.shields.io/badge/Techathon-2025-blue.svg) ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+
 ## 🚀 Project Overview
 **Waste Management Automation for Dark Stores** is an AI-powered web application designed to optimize waste tracking, reduce food wastage, and enhance sustainability in dark stores (micro-fulfillment centers). The system automates waste categorization, provides predictive analytics, and integrates with IoT sensors to monitor and reduce waste in real-time.
 
